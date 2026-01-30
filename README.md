@@ -49,7 +49,9 @@ I have a strong background in information security, which allows me to approach 
 
 ***🔍 Check out my repositories*** 
 
+<a target="_blank" href="https://github.com/jpablolq/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
+##
 
 ***🌍 What I'm looking for***
 
